@@ -12,7 +12,7 @@ The Ising_DeepL project combines computational physics and deep learning to stud
 ## Requirements
 - C++ Compiler (e.g., g++, clang)
 - Python 3.x
-- TensorFlow (version x.x or later)
+- TensorFlow 
 - NumPy
 - Matplotlib
 - pandas
